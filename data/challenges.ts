@@ -53,7 +53,7 @@ export const challenges: Challenge[] = [
   },
   {
     id: 'notifications',
-    title: 'Permission Requests',
+    title: 'Ask Permission',
     icon: Bell,
     problem: 'When should you ask a user for Push Notification permissions?',
     options: [
@@ -161,7 +161,7 @@ export const challenges: Challenge[] = [
   },
   {
     id: 'millers-law',
-    title: 'Information Groups',
+    title: 'Info Groups',
     icon: Filter,
     problem: 'You are designing a long settings menu with 15 options. How do you present them?',
     options: [
@@ -173,7 +173,7 @@ export const challenges: Challenge[] = [
   },
   {
     id: 'peak-end',
-    title: 'Experience Memory',
+    title: 'Nice Experience',
     icon: Zap,
     problem: 'A user just finished a difficult process. How should the app end?',
     options: [
